@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @iwastaken93-droid
+/src/backend/database.py      @iwastaken93-droid
+/src/backend/routers/auth.py  @iwastaken93-droid
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @iwastaken93-droid
